@@ -2,10 +2,13 @@
 
 
 # Photography-Web-Page.-
+![Screenshot (8)](https://github.com/Petermbugu/Photography-Web-Page.-/assets/125895000/64eb2cec-5355-41b8-afb8-54226f4f5f52)
 #### This is a very simple web page that is of a photography company called Vibrant Veil Studio.
+![Polycarp Otieno 3](https://github.com/Petermbugu/Photography-Web-Page.-/assets/125895000/014059a1-be1c-419d-a7e0-ba184d3d1fb4)
+
 #### By **Peter Mbugua**
 
-![Screenshot (8)](https://github.com/Petermbugu/Photography-Web-Page.-/assets/125895000/64eb2cec-5355-41b8-afb8-54226f4f5f52)
+
 
 ## Description
 This is a website of a well known company called "Vibrant Veil Studio" that deals with photography and also film making.
