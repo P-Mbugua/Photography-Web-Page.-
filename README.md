@@ -16,9 +16,9 @@ This is a website of a well known company called "Vibrant Veil Studio" that deal
 ## Known Bugs
 In the webpage their is a bug under the navigation bar, the connecting of the content on the webpage to the navigation buttons is yet to be finished to create links to open as sub pages.
 ## Technologies Used
-{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}
+I have used two languages: html and css only to make the web page.
 ## Support and contact details
-{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}
+If their is any issues or have questions, ideas or concerns find me via pmbugua276@gmail.com
 ### License
 *{Determine the license under which this application can be used.  See below for more details on licensing.}*
 Copyright (c) {year} **{List of contributors or company name}**
