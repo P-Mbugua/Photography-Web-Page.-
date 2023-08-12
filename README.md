@@ -3,9 +3,9 @@
 
 # Photography-Web-Page.-
 #### This is a very simple web page that is of a photography company called Vibrant Veil Studio.
-#### By **{List of contributors}**
+#### By **Peter Mbugua**
 ## Description
-{This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
+This is a website of a well known company called "Vibrant Veil Studio" that deals with photography and also film making.
 ## Setup/Installation Requirements
 * This is a great place
 * to list setup instructions
